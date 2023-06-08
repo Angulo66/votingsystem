@@ -11,3 +11,5 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.ts
 ```
+
+For retrieving candidates and votes use same state mapping, can be seen used in test script in tests dir
